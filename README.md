@@ -1,5 +1,9 @@
 # 🛒 Zepto Sales Data Analysis – Case Study
 
+![GitHub last commit](https://img.shields.io/github/last-commit/RahulMeghwani/zepto-sales-case-study)
+![GitHub repo size](https://img.shields.io/github/repo-size/RahulMeghwani/zepto-sales-case-study)
+![GitHub language count](https://img.shields.io/github/languages/count/RahulMeghwani/zepto-sales-case-study)
+
 This project is a data analytics case study on Zepto sales data. It explores trends, patterns, and insights using Python, Pandas, Seaborn, and Matplotlib. The goal is to derive actionable insights that can support business decisions like product stocking, city-wise demand, and category performance.
 
 ---
