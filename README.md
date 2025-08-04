@@ -41,6 +41,32 @@ The dataset contains Zepto sales records with features such as:
 
 ---
 
+## 📊 Visualizations
+
+### 1. City-wise Revenue of Top Product
+
+This chart shows how the most popular product (in terms of total revenue) performed across different cities.
+
+![Top Product City Revenue](images/top_product_city_revenue.png)
+
+---
+
+### 2. Top Ordered Product in Each City
+
+This plot displays the top-ordered product (by number of orders) in each city.
+
+![Top Ordered Product Per City](images/top_ordered_product_per_city_orders.png)
+
+---
+
+### 3. Top 3 Products by Revenue in Each City
+
+A breakdown of the top 3 revenue-generating products in every city.
+
+![Top 3 Revenue Products](images/top_ordered_product_per_city.png)
+
+---
+
 ## 🚀 Getting Started
 
 To run this project:
