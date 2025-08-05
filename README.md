@@ -55,7 +55,7 @@ This chart shows how the most popular product (in terms of total revenue) perfor
 
 This plot displays the top-ordered product (by number of orders) in each city.
 
-![Top Ordered Product Per City](images/top_ordered_product_per_city_orders.png)
+![Top Ordered Product Per City](images/least_revenue_row.png)
 
 ---
 
