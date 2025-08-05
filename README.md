@@ -43,7 +43,7 @@ The dataset contains Zepto sales records with features such as:
 
 ## 📊 Visualizations
 
-### 1. City-wise Revenue of Top Product
+### 1. Top 5 Products by Quantity Sold
 
 This chart shows how the most popular product (in terms of total revenue) performed across different cities.
 
