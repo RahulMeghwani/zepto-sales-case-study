@@ -51,7 +51,7 @@ This chart shows how the most popular product (in terms of total revenue) perfor
 
 ---
 
-### 2. City-wise Revenue Distribution & Least Revenue Product’s City
+### 2. City-wise Revenue Distribution 
 
 This plot displays the top-ordered product (by number of orders) in each city.
 
